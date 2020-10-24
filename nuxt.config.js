@@ -15,6 +15,19 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  target: {'static'},
+    generate: {
+      routes:[
+      "/pages/_slug",
+      "/pages/who"
+
+
+    ]
+  },
+
+
+
+
   /*
   ** Customize the progress-bar color
   */
