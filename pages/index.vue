@@ -2,7 +2,7 @@
   <div>
     <div class="hero">
       <div  class="container">
-        <img class="logo" src="/assets/Logo.png">
+        <img class="logo" src="/assets/Logo22.png">
         <br>
         <br>
        
@@ -41,6 +41,14 @@ export default {
 </script>
 
 <style lang="scss">
+
+
+main img {
+    width: 100%;
+    border-radius: .5em;
+    height: 109px;
+}
+
 
 main span {
     color: white;
