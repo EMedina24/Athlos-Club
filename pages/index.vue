@@ -42,7 +42,10 @@ export default {
 
 <style lang="scss">
 
-
+main span {
+    color: white;
+    display:none !important;
+}
 main h2 {
     margin-top:1em !important;
     text-transform: uppercase;
